@@ -1,4 +1,4 @@
-package com.backend.BIZIMANA_hotelManager;
+package com.backend.InnSync;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

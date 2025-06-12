@@ -1,4 +1,4 @@
-package com.backend.BIZIMANA_hotelManager;
+package com.backend.InnSync;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
